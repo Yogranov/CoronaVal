@@ -8,7 +8,10 @@ The script gets an Exel format file and separete the info rows to a Word pages, 
 <br><br>
 Example for input file:
 <br>
+<img src="https://github.com/Yogranov/CoronaVal/blob/master/README_MEDIA/exelExpmple.jpg" width="600" height="400" />
+
 
 <br>
 Example for output file:
 <br>
+<img src="https://github.com/Yogranov/CoronaVal/blob/master/README_MEDIA/wordExpmple.jpg" width="600" height="400" />
